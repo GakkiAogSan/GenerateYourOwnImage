@@ -1,6 +1,6 @@
 Tensorflow implementation of [Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434)
 
-This the original DCGAN project with some little modification. I just remove the Mnist part of code and change the learning rate.
+This is the original DCGAN project with some little modification. I just remove the Mnist part of code and change the learning rate.
 
 The original DCGAN code is here https://github.com/carpedm20/DCGAN-tensorflow
 
